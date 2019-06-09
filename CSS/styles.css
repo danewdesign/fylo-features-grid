@@ -171,7 +171,7 @@ p {color: hsl(0, 0%, 50%);}
   .img-header-bg {display: none;}
   .img-mobile-bg {display: block; width: 100vw;}
 
-  .header-grid {grid-template-columns: 35% 60%; justify-content: space-between;}
+  .header-grid {grid-template-columns: 30% 65%; justify-content: space-between;}
   .img-logo-header {max-width: 60%;}
   .signup-header a {margin-left: 20px;}
   .link-signup {padding: 4px 25px;}
