@@ -198,7 +198,7 @@ p {color: hsl(0, 0%, 50%);}
 .img-mobile-footer {display: block;}
 .vr {display: none;}
 
-.footer-grid {grid-template-columns: auto; grid-template-rows: repeat(5, auto);}
+.footer-grid {grid-template-columns: auto; grid-template-rows: repeat(5, auto); padding-top: 100px;}
 .logo-n-contact-footer {grid-column: 1 / span 1; grid-row: 1 / span 1; margin: 0; padding-bottom: 50px;}
 .img-logo-footer {padding-bottom: 50px; width: 100%;}
 .join-footer {grid-column: 1 / span 1; grid-row: 2 / span 1; padding-bottom: 75px; text-align: center;}
